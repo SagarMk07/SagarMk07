@@ -77,16 +77,16 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sagar-kalagudi-b375163a2/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Kalagudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
+&nbsp;
+
 <a href="https://github.com/SagarMk07">
-  <img src="https://img.shields.io/badge/GitHub-SagarMk07-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </p>
-
----
 
 ## ⚡ Fun Fact
 
