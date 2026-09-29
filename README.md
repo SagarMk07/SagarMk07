@@ -61,8 +61,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=SagarMk07&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
