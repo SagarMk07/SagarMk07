@@ -1,65 +1,94 @@
-# Hi there, I'm Sagar  Kalagudi 👋
+<h1 align="center">Hi there, I'm Sagar  Kalagudi 👋</h1>
 
-### 🤖 AI & ML Student | Developer | Tech Explorer
+<h3 align="center">
+🤖 AI & ML Student | 💻 Developer | 🚀 Tech Explorer
+</h3>
 
 ---
 
 ## 💡 About Me
 
-🎓 AI & ML Student | 💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development ⚡ Love building real-world applications and experimenting with new technologies 🚀 Currently exploring advanced AI, development, and system design 🧠 Always learning and improving my technical skills
+🎓 AI & ML Student | 💻 Passionate about Artificial Intelligence, Machine Learning, and Software Development ⚡ Love building real-world applications and experimenting with new technologies 🚀 Currently exploring advanced development, AI, and system design 🧠 Always learning and improving my technical skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### Web Development
+### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+</p>
 
-### Tools & Platforms
+### 🗄️ Database
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SagarMk07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SagarMk07&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SagarMk07&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sagar%20Kalagudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-kalagudi-b375163a2/)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sagar-kalagudi-b375163a2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sagar%20Kalagudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/SagarMk07">
+  <img src="https://img.shields.io/badge/GitHub-SagarMk07-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy exploring AI and emerging technologies and turning ideas into practical applications.
+> I enjoy exploring AI, learning new technologies, and turning ideas into practical solutions.
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
