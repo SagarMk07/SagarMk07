@@ -61,11 +61,18 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SagarMk07&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SagarMk07&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarMk07&layout=compact&hide_border=true&theme=tokyonight&langs_count=6"
+    height="180"
+  />
+</p>
 
 ## 🌐 Connect With Me
 
