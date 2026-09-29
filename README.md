@@ -1,4 +1,4 @@
-# Hi there, I'm Sagar M Kalagudi 👋
+# Hi there, I'm Sagar  Kalagudi 👋
 
 ### 🤖 AI & ML Student | Developer | Tech Explorer
 
