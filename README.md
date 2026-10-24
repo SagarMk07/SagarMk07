@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sagar  Kalagudi 👋</h1>
+<h1 align="center">Hi there, I'm Kakarot 👋</h1>
 
 <h3 align="center">
 🤖 AI & ML Student | 💻 Developer | 🚀 Tech Explorer
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
